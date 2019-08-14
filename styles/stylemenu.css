@@ -1,0 +1,31 @@
+body{
+    background-color: #fcf7cb;
+    text-align: center;
+}
+
+table{    
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    height: 200px;
+    margin-bottom: 5%; 
+}
+td,th,tr{
+    border: 1px solid #ffcc00;
+    padding : 8px;
+    text-align: center;
+    border-collapse:collapse;
+}
+tr{
+    background: #ffde59;
+    text-align: center;
+}
+.logoimg{
+    margin: -20px;
+}
+.logo2{
+    text-align: right;
+}
+.logo{
+    margin-right: 35%;
+}

@@ -1,0 +1,52 @@
+body{
+    background-color: #fcf7cb;
+    text-align: center;
+}
+
+.head {
+    display: inline-block;
+    text-align: center;
+
+}
+.home{
+    margin: 10px;
+}
+
+.menu{
+    margin: 10px;
+}
+.headprofile{
+    margin-top: -80px;
+}
+.headprofile{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.content2{
+    display: inline-block;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 125%;
+    font-style: italic;
+}
+table{    
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
+th{
+    text-align: center;
+    margin: -20%;
+}
+
+.logoimg{
+    margin: -20px;
+}
+.logo2{
+    text-align: right;
+}
+.logo{
+    margin-right: 35%;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: #fcf7cb;
+    text-align: center;
+}
+
+.head {
+    display: inline-block;
+    text-align: center;
+
+}
+.home{
+    margin: 10px;
+}
+
+.menu{
+    margin: 10px;
+}
+.headskills{
+    margin-top: -80px;
+}
+.headskills{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.logoimg{
+    margin: -20px;
+}
+.logo2{
+    text-align: right;
+}
+.logo{
+    margin-right: 35%;
+}
